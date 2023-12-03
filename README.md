@@ -1,5 +1,7 @@
-For request: Enter a key into the text box, all characters including letters, numbers, and special characters are valid. Next, click encryption and a request will be sent to the microservice to encrypt the image. This encrypted image will be stored into a temp variable until the user logs off or decrypts it.
+For request: Enter the link localhost:3000 into your browser and it will take you to the main html page where you can signup and login using the two buttons on the page this will redirect you to either localhost:3000/signup or localhost:3000/login.
 
-For response: After a request has been sent, either via encryption or decrpytion, it will return a message saying "successful encryption" if encryption was selected. If decryption was selected, will return the decrypted image.
+For response: Entering localhost:3000, localhost:3000/signup, or localhost:3000/login will give back to the user the data for the html pages that will allow them to signup and login.
 
-![UML](Image_Encryption_Decryption_UML.jpeg)
+To use my program effectively send the user to localhost:3000 first and then only after they sign up and login send them to your own individual project.
+
+![UML](CS_361_A9_Diagram_1.jpeg)
