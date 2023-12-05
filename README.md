@@ -4,4 +4,4 @@ For response: After entering a valid login info the microservice will provide yo
 
 Make sure to start the server using node server.js and have Express downloaded then you can call my microservice using localhost:3000 and after you login it will provide you with the username of the user and you can use it for any purpose you want.
 
-![UML](CS_361_A9_Diagram_1.jpeg)
+![UML](UML.jpeg)
